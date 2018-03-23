@@ -1,21 +1,28 @@
  -------------  Comandos linux  ---------------
 
-limpar tela                                     -    Ctrl+l
+limpar tela                                     
+-    Ctrl+l
 
 
 
   ------------   Adicionar  --------------
 
-Criar novo repositório                          -    git init
-Verificar estado dos arquivos/diretórios        -    git status
-git add meu_arquivo.txt                         -    git add meu_arquivo.txt
-Adicionar todos os arquivos/diretórios          -    git add .
+Criar novo repositório                          
+-    git init
+Verificar estado dos arquivos/diretórios        
+-    git status
+git add meu_arquivo.txt                         
+-    git add meu_arquivo.txt
+Adicionar todos os arquivos/diretórios          
+-    git add .
 
 
 
 
  -----------  COMITAR  -------------
 
-Comitar um arquivo                              -    git commit meu_arquivo.txt
-Comitar informando mensagem                     -    git commit meuarquivo.txt -m "minha mensagem de commit"
+Comitar um arquivo                              
+-    git commit meu_arquivo.txt
+Comitar informando mensagem                    
+ -    git commit meuarquivo.txt -m "minha mensagem de commit"
 
